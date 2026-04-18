@@ -1,5 +1,4 @@
-entrance = input()
-numbers = list(entrance.split(' '))
+numbers = input().split()
 
 numbers.remove('3')
 

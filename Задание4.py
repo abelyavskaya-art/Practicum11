@@ -1,5 +1,4 @@
-entrance = input()
-words = list(entrance.split(' '))
+words = input().split()
 punctuation = '.,!?;:()[]{}"\'-'
 
 result = []
